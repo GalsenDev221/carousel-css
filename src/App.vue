@@ -8,6 +8,10 @@
 
 <style scoped>
 .carousel {
+  overflow-x: auto;
+  scrollbar-width: none;
+  scroll-snap-type: x mandatory;
+
   width: 500px;
   display: flex;
   align-items: center;
