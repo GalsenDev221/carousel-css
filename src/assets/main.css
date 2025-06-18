@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#app {
+  min-height: 100vh;
+  color: hsl(0 0% 90%);
+  background-color: hsl(0 0% 10%);
+  display: grid;
+  place-content: center;
+}
+
+ul {
+  list-style: none;
+}
