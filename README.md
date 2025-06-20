@@ -1,39 +1,30 @@
-# carousel-css
+# Carousel with CSS only
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is a tutorial on how to create carousels using experimental CSS features such as `::scroll-button` and `::scroll-marker`.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Pure CSS implementation
+- Uses experimental CSS features for advanced styling and functionality
 
-## Type Support for `.vue` Imports in TS
+## Technologies Used
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+- CSS
+- HTML
 
-## Customize configuration
+## Getting Started
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+1. Clone the repository:
+2. Start a development server
 
-## Project Setup
+    ```sh
+    npm run dev
+    ```
 
-```sh
-pnpm install
-```
+## Tutorial
 
-### Compile and Hot-Reload for Development
+Detailed instructions on how to build this carousel using `::scroll-button` and `::scroll-marker` can be found [here](https://developer.chrome.com/blog/carousels-with-css).
 
-```sh
-pnpm dev
-```
+## Contributing
 
-### Type-Check, Compile and Minify for Production
-
-```sh
-pnpm build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-pnpm lint
-```
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
