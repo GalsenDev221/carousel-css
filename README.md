@@ -2,6 +2,8 @@
 
 This project is a tutorial on how to create carousels using experimental CSS features such as `::scroll-button` and `::scroll-marker`.
 
+Here's the [slides](https://www.canva.com/design/DAGqpIsyFAQ/P1lIzoFVbjZNPAfTUO9Ewg/view?utm_content=DAGqpIsyFAQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcc5ce089cb) for this tutorial.
+
 ## Features
 
 - Pure CSS implementation
